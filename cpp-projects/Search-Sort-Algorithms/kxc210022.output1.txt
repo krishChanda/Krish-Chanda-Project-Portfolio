@@ -1,0 +1,94 @@
+Krish Chanda 
+CS 1337-503
+Program 1
+=======================
+Bubble Sort
+Before
+Array[0]  =  55
+Array[1]  =  1
+Array[2]  =  62
+Array[3]  =  33
+Array[4]  =  14
+Array[5]  =  56
+Array[6]  =  93
+Array[7]  =  58
+Array[8]  =  68
+Array[9]  =  66
+-----
+After
+Array[0]  =  1
+Array[1]  =  14
+Array[2]  =  33
+Array[3]  =  55
+Array[4]  =  56
+Array[5]  =  58
+Array[6]  =  62
+Array[7]  =  66
+Array[8]  =  68
+Array[9]  =  93
+-----
+###################################
+   
+Selection Sort
+Before
+Array[0]  =  38
+Array[1]  =  65
+Array[2]  =  41
+Array[3]  =  68
+Array[4]  =  69
+Array[5]  =  87
+Array[6]  =  1
+Array[7]  =  8
+Array[8]  =  77
+Array[9]  =  85
+-----
+After
+Array[0]  =  1
+Array[1]  =  8
+Array[2]  =  38
+Array[3]  =  41
+Array[4]  =  65
+Array[5]  =  68
+Array[6]  =  69
+Array[7]  =  77
+Array[8]  =  85
+Array[9]  =  87
+-----
+###################################
+   
+Linear Search
+Array[0]  =  75
+Array[1]  =  33
+Array[2]  =  89
+Array[3]  =  20
+Array[4]  =  61
+Array[5]  =  82
+Array[6]  =  15
+Array[7]  =  9
+Array[8]  =  78
+Array[9]  =  23
+Target:82  Index:5
+  
+###################################
+  
+Binary Search
+Array[0]  =  7
+Array[1]  =  20
+Array[2]  =  40
+Array[3]  =  42
+Array[4]  =  46
+Array[5]  =  48
+Array[6]  =  52
+Array[7]  =  55
+Array[8]  =  64
+Array[9]  =  67
+Target:7  Index:0
+  
+###################################
+  
+Benchmarks
+Test Linear Search
+Elapsed  =  801.1  ms
+Test Binary Search
+Elapsed  =  85.535  ms
+Program ended with exit code: 0
