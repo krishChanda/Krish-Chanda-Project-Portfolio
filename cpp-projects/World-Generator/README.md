@@ -9,14 +9,23 @@ This program takes in the .txt file from the previous program and outputs the ga
 
 ## Example Output
 ..........
+
 .XXX..XXX.
+
 .XWX..XBXX
+
 .XX....XX.
+
 ..X.K..X..
+
 ..X....X..
+
 .XX....XX.
+
 .XTX..XLXX
+
 .XXX..XXX.
+
 ..........
 
 W: Wolf
