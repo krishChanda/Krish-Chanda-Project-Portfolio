@@ -21,5 +21,7 @@ In this project, I create music objects and load music data as .txt files to dra
 
 where 
 +: sharp
+
 o: whole 
+
 $: flat
