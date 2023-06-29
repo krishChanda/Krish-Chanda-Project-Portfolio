@@ -1,5 +1,3 @@
-Krish Chanda
-CS 1337.502
 Program #4
 ==============
 1. Create User
