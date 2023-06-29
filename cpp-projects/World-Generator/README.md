@@ -8,25 +8,16 @@ In this program, the user can create their game map and save it as a .txt file.
 This program takes in the .txt file from the previous program and outputs the game map onto the console.
 
 ## Example Output
-..........
-
-.XXX..XXX.
-
-.XWX..XBXX
-
-.XX....XX.
-
-..X.K..X..
-
-..X....X..
-
-.XX....XX.
-
-.XTX..XLXX
-
-.XXX..XXX.
-
-..........
+.......... <br />
+.XXX..XXX. <br />
+.XWX..XBXX <br />
+.XX....XX. <br />
+..X.K..X.. <br />
+..X....X.. <br />
+.XX....XX. <br />
+.XTX..XLXX <br />
+.XXX..XXX. <br />
+.......... <br />
 
 W: Wolf
 B: Bear
