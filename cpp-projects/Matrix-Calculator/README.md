@@ -2,10 +2,10 @@
 In this C++ Matrix Calculator project, the program creates 3x3 matrices and can perform addition, subtraction, multiplication, and inversion.
 
 ## Example Output:
-Demonstrate Addition
-|63.00000,30.00000,45.00000,|
-|56.00000,13.00000,8.00000,|
-|69.00000,91.00000,61.00000,|
+Demonstrate Addition <br />
+|63.00000,30.00000,45.00000,| <br />
+|56.00000,13.00000,8.00000,| <br />
+|69.00000,91.00000,61.00000,| <br />
  
 |2.00000,49.00000,66.00000,|
 |67.00000,19.00000,78.00000,|
