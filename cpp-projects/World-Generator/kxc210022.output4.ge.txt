@@ -1,0 +1,24 @@
+Krish Chanda
+CS 1337.502
+Program #4
+---------------------
+..........
+.XXX..XXX.
+.XWX..XBXX
+.XX....XX.
+..X.K..X..
+..X....X..
+.XX....XX.
+.XTX..XLXX
+.XXX..XXX.
+..........
+
+W: Wolf
+B: Bear
+T: Tiger
+L: Lion
+
+K: Krish Chanda
+To get all the money in the world 
+I do not know the answer to that to be honest
+Program ended with exit code: 0

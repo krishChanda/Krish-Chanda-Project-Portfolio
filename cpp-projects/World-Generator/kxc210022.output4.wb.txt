@@ -1,0 +1,235 @@
+Krish Chanda
+CS 1337.502
+Program #4
+==============
+1. Create User
+2. Create Creature
+3. Create a row of terrain
+4. Save File
+5. Quit
+_________________
+
+1
+What is your name?
+Krish Chanda
+What is your quest?
+To get all the money in the world 
+What is the capital of Assyria?
+I do not know the answer to that to be honest
+What is your symbol?
+K
+What row are you in?
+4
+What column are you in?
+4
+1. Create User
+2. Create Creature
+3. Create a row of terrain
+4. Save File
+5. Quit
+_________________
+
+2
+What is its name?
+Wolf
+What is your symbol?
+W
+What row are you in?
+2
+What column are you in?
+2
+1. Create User
+2. Create Creature
+3. Create a row of terrain
+4. Save File
+5. Quit
+_________________
+
+2
+What is its name?
+Bear
+What is your symbol?
+B
+What row are you in?
+2
+What column are you in?
+7
+1. Create User
+2. Create Creature
+3. Create a row of terrain
+4. Save File
+5. Quit
+_________________
+
+2
+What is its name?
+Tiger
+What is your symbol?
+T
+What row are you in?
+7
+What column are you in?
+2
+1. Create User
+2. Create Creature
+3. Create a row of terrain
+4. Save File
+5. Quit
+_________________
+
+2
+What is its name?
+Lion
+What is your symbol?
+L
+What row are you in?
+7
+What column are you in?
+7
+1. Create User
+2. Create Creature
+3. Create a row of terrain
+4. Save File
+5. Quit
+_________________
+
+3
+What row ill this be?
+0
+Please type 10 characters
+..........
+Thank you for entering 10 characters!
+1. Create User
+2. Create Creature
+3. Create a row of terrain
+4. Save File
+5. Quit
+_________________
+
+3
+What row ill this be?
+1
+Please type 10 characters
+.XXX..XXX.
+Thank you for entering 10 characters!
+1. Create User
+2. Create Creature
+3. Create a row of terrain
+4. Save File
+5. Quit
+_________________
+
+3
+What row ill this be?
+2
+Please type 10 characters
+.XXX..XXX.
+Thank you for entering 10 characters!
+1. Create User
+2. Create Creature
+3. Create a row of terrain
+4. Save File
+5. Quit
+_________________
+
+3
+What row ill this be?
+3
+Please type 10 characters
+.XX....XX.
+Thank you for entering 10 characters!
+1. Create User
+2. Create Creature
+3. Create a row of terrain
+4. Save File
+5. Quit
+_________________
+
+3
+What row ill this be?
+4
+Please type 10 characters
+..X....X..
+Thank you for entering 10 characters!
+1. Create User
+2. Create Creature
+3. Create a row of terrain
+4. Save File
+5. Quit
+_________________
+
+3
+What row ill this be?
+5
+Please type 10 characters
+..X....X..
+Thank you for entering 10 characters!
+1. Create User
+2. Create Creature
+3. Create a row of terrain
+4. Save File
+5. Quit
+_________________
+
+3
+What row ill this be?
+6
+Please type 10 characters
+.XX....XX.
+Thank you for entering 10 characters!
+1. Create User
+2. Create Creature
+3. Create a row of terrain
+4. Save File
+5. Quit
+_________________
+
+3
+What row ill this be?
+7
+Please type 10 characters
+.XXX..XXX.
+Thank you for entering 10 characters!
+1. Create User
+2. Create Creature
+3. Create a row of terrain
+4. Save File
+5. Quit
+_________________
+
+3
+What row ill this be?
+8
+Please type 10 characters
+.XXX..XXX.
+Thank you for entering 10 characters!
+1. Create User
+2. Create Creature
+3. Create a row of terrain
+4. Save File
+5. Quit
+_________________
+
+3
+What row ill this be?
+9
+Please type 10 characters
+..........
+Thank you for entering 10 characters!
+1. Create User
+2. Create Creature
+3. Create a row of terrain
+4. Save File
+5. Quit
+_________________
+
+4
+1. Create User
+2. Create Creature
+3. Create a row of terrain
+4. Save File
+5. Quit
+_________________
+
+5
+Program ended with exit code: 0
