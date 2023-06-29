@@ -1,7 +1,7 @@
 # Decode Cipher Project
 ## In this fun C++ program I am given the following message:
 
-__ I thought to see the fairies in the fields, but I saw only the evil elephants with their black backs. 
+I thought to see the fairies in the fields, but I saw only the evil elephants with their black backs. 
 Woe! how that sight awed me! 
 The elves danced all around and about while I heard voices calling clearly. 
 Ah! how I tried to see--throw off the ugly cloud-- but no blind eye of a mortal was permitted to spy them.
@@ -11,7 +11,7 @@ So the dream vanished, whereat I thanked Heaven.
 I shed many tears before the thin moon rose up, frail and faint as a sickle of straw. 
 Now though the Enchanter gnash his teeth vainly, yet shall he return as the Spring returns.
 Oh, wretched man! 
-Hell gapes, Erebus now lies open, The mouths of Death wait on thy end. __
+Hell gapes, Erebus now lies open, The mouths of Death wait on thy end. 
 
 ## Given a list of digits, I had to decipher the hidden message within the text
 int sequence[] = { 7, 8, 7, 6, 5, 6, 5, 4, 3, 4, 3, 2, 1, 1, 2, 3, 4, 3, 4, 5, 6, 5, 6, 7, 8, 7, 8, 8 , 7, 8, 7, 6, 5, 6, 5, 4, 3, 4, 3, 2, 1, 1, 2, 3, 4, 3, 4, 5, 6, 5, 6, 7, 8, 7, 8, 8 , 7, 8, 7, 6, 5, 6, 5, 4, 4, 3, 3, 2, 1, 1, 2, 3, 4};
