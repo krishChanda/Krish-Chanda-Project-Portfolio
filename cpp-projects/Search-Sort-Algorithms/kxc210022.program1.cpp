@@ -1,5 +1,4 @@
 //
-//  kxc210022.program1.cpp
 //
 //  Created by Krish Chanda on 9/1/22.
 //
