@@ -1,8 +1,8 @@
 # Data Analysis Projects
 
-In these projects, I use various Python libraries in order to analyze and find correlation in datasets. 
+### In these projects, I use various Python libraries in order to analyze and find correlation in datasets. 
 
-Skills Demonstrated:
+ ### Skills Demonstrated:
 * Programming with Python
 * NumPy with Python
 * Using pandas Data Frames to solve complex tasks
