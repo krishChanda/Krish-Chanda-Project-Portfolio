@@ -1,7 +1,7 @@
 # Krish Chanda Project Portfolio
-Welcome to my GitHub repository showcasing a collection of my personal projects! Here, you will find a diverse range of projects that demonstrate my skills and expertise in various programming languages, frameworks, and domains.
+Welcome to my GitHub repository, an immersive showcase of my passion for coding and problem-solving! Here, you will find a diverse range of projects that demonstrate my skills and expertise in various programming languages, including Python, C++, Java, and MySQL. 
 
-## Python Machine Learning:
+## Python Machine Learning
 
 Using Python, I have leveraged the power of various libraries (NumPy, Pandas, Matplotlib, Seaborn, Plotly, Sklearn, TensorFlow, Keras) to conduct exploratory data analysis and build Machine Learning algorithms. Preview of Projects shown below: 
 
@@ -76,15 +76,6 @@ Given a dataset from Kaggle for [loan details](https://www.kaggle.com/wordsforth
 ## Model Conclusion:
 The model had an accuracy f1-score of 0.89, meaning, given information about a user from a dataset, the model had approximately an 89% chance of guessing right whether a person can pay off a loan or have to be charged off.
 
-### Following Python Libraries Used:
-* NumPy
-* Pandas
-* Matplotlib
-* Seaborn
-* Plotly
-* Sklearn
-* TensorFlow
-* Keras
 
 ## CPP Projects:
 
