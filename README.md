@@ -1,6 +1,8 @@
 # Krish Chanda Project Portfolio
 Welcome to my GitHub repository, an immersive showcase of my passion for coding and problem-solving! Here, you will find a diverse range of projects that demonstrate my skills and expertise in various programming languages, including Python, C++, Java, and MySQL. 
 
+Below is an overview of the projects I have made using different languages and frameworks.
+
 ## Python Machine Learning Project Preview
 
 Using Python, I have leveraged the power of various libraries (NumPy, Pandas, Matplotlib, Seaborn, Plotly, Sklearn, TensorFlow, Keras) to conduct exploratory data analysis and build Machine Learning algorithms. Preview of Projects shown below: 
