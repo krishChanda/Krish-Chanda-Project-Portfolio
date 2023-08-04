@@ -1,5 +1,5 @@
 # Krish Chanda Project Portfolio
-Welcome to my GitHub repository, an immersive showcase of my passion for coding and problem-solving! Here, you will find a diverse range of projects that demonstrate my skills and expertise in various programming languages, including Python, C++, Java, and MySQL. 
+Welcome to my GitHub repository, an immersive showcase of my passion for coding and problem-solving! Here, you will find a diverse range of projects that demonstrate my skills and expertise in various programming languages, including Python, C++, Java, and MySQL. My repository is divided by languages/frameworks and project files & summaries can be found within each section. 
 
 Below is an overview of the projects I have made using different languages and frameworks.
 
