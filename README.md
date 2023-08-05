@@ -7,10 +7,10 @@ Below is an overview of my projects using different languages and frameworks.
 Here you can find the collaborative [ACM Project](https://github.com/acm-projects/Shop-and-Share) where I worked with a team of 5 students. I worked as a Full-Stack Developer but my main accomplishments lie in the backend development I did for our shopping list app. 
 
 ### My Accomplishments:
-o	Built user authentication using Google Firebase
-o	Created a relational database of 6 tables to store user shopping information using Cloud Firestore  
-o	Integrated React local Push-Notifications using JavaScript & CSS 
-![image](https://github.com/krishChanda/Krish-Chanda-Project-Portfolio/assets/72318969/33f7955d-fb5e-4eb8-b73f-b0d6ccfcf96e)
+* Built user authentication using Google Firebase
+* Created a relational database of 6 tables to store user shopping information using Cloud Firestore  
+* Integrated React local Push-Notifications using JavaScript & CSS 
+
 
 
 Shop&Share is an app that allows a user to create and share grocery lists with others while keeping track of allergies and preferences of the people sharing the list while reminding you of items in your pantry nearing expiration! 
