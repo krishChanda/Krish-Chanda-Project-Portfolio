@@ -1,11 +1,20 @@
 # Krish Chanda Project Portfolio
 Welcome to my GitHub repository, an immersive showcase of my passion for coding and problem-solving! Here, you will find a diverse range of projects that demonstrate my skills and expertise in various programming languages, including Python, C++, Java, and MySQL. My repository is divided by languages/frameworks and project files & summaries can be found within each section. 
 
-Below is an overview of the projects I have made using different languages and frameworks.
+Below is an overview of my projects using different languages and frameworks.
 
 ## JavaScript, CSS, React Native, Google Firebase
-Here you can find the collaborative [ACM Project](https://github.com/acm-projects/Shop-and-Share) where I worked with a team of 5 students to build our shopping list app. 
+Here you can find the collaborative [ACM Project](https://github.com/acm-projects/Shop-and-Share) where I worked with a team of 5 students. I worked as a Full-Stack Developer but my main accomplishments lie in the backend development I did for our shopping list app. 
+
+### My Accomplishments:
+o	Built user authentication using Google Firebase
+o	Created a relational database of 6 tables to store user shopping information using Cloud Firestore  
+o	Integrated React local Push-Notifications using JavaScript & CSS 
+![image](https://github.com/krishChanda/Krish-Chanda-Project-Portfolio/assets/72318969/33f7955d-fb5e-4eb8-b73f-b0d6ccfcf96e)
+
+
 Shop&Share is an app that allows a user to create and share grocery lists with others while keeping track of allergies and preferences of the people sharing the list while reminding you of items in your pantry nearing expiration! 
+
 ### App Demo
 https://github.com/krishChanda/Krish-Chanda-Project-Portfolio/assets/72318969/2a751c80-64af-4fd0-91f1-21ebb7b07cc0
 
