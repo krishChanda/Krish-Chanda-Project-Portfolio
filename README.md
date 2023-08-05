@@ -3,6 +3,14 @@ Welcome to my GitHub repository, an immersive showcase of my passion for coding 
 
 Below is an overview of the projects I have made using different languages and frameworks.
 
+## JavaScript, CSS, React Native, Google Firebase
+Here you can find the collaborative [ACM Project](https://github.com/acm-projects/Shop-and-Share) where I worked with a team of 5 students to build our shopping list app. 
+
+### App Demo
+https://github.com/krishChanda/Krish-Chanda-Project-Portfolio/assets/72318969/2a751c80-64af-4fd0-91f1-21ebb7b07cc0
+
+Shop&Share is an app that allows a user to create and share grocery lists with others while keeping track of allergies and preferences of the people sharing the list while reminding you of items in your pantry nearing expiration! 
+
 ## Python Machine Learning Project Preview
 
 Using Python, I have leveraged the power of various libraries (NumPy, Pandas, Matplotlib, Seaborn, Plotly, Sklearn, TensorFlow, Keras) to conduct exploratory data analysis and build Machine Learning algorithms. Preview of Projects shown below: 
@@ -61,9 +69,3 @@ In the following programs, I used my knowledge of Java to create programs that s
 
 ## MySQL
 In the following project, I utilize my knowledge of MySQL to create a mock database for a social media site and used SQL querying procedures such as foreign keys, subqueries, joins, and group-by to conduct exploratory data analysis.  
-
-## JavaScript, CSS, React Native, Google Firebase
-Here you can find the collaborative [ACM Project](https://github.com/acm-projects/Shop-and-Share) where I worked with a team of 5 students to build our shopping list app. 
-
-Shop&Share is an app that allows a user to create and share grocery lists with others while keeping track of allergies and preferences of the people sharing the list while reminding you of items in your pantry nearing expiration! 
-
