@@ -62,6 +62,8 @@ In the following programs, I used my knowledge of Java to create programs that s
 ## MySQL
 In the following project, I utilize my knowledge of MySQL to create a mock database for a social media site and used SQL querying procedures such as foreign keys, subqueries, joins, and group-by to conduct exploratory data analysis.  
 
-## JavaScript & CSS
-[ACM Project](https://github.com/acm-projects/Shop-and-Share)
+## JavaScript, CSS, React Native, Google Firebase
+Here you can find the collaborative [ACM Project](https://github.com/acm-projects/Shop-and-Share) where I worked with a team of 5 students to build our shopping list app. 
+
+Shop&Share is an app that allows a user to create and share grocery lists with others while keeping track of allergies and preferences of the people sharing the list while reminding you of items in your pantry nearing expiration! 
 
