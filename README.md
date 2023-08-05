@@ -62,4 +62,6 @@ In the following programs, I used my knowledge of Java to create programs that s
 ## MySQL
 In the following project, I utilize my knowledge of MySQL to create a mock database for a social media site and used SQL querying procedures such as foreign keys, subqueries, joins, and group-by to conduct exploratory data analysis.  
 
+## JavaScript & CSS
+[ACM Project](https://github.com/acm-projects/Shop-and-Share)
 
