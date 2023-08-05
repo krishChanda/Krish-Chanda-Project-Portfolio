@@ -1,7 +1,7 @@
 # Krish Chanda Project Portfolio
 Welcome to my GitHub repository, an immersive showcase of my passion for coding and problem-solving! Here, you will find a diverse range of projects that demonstrate my skills and expertise in various programming languages, including Python, C++, Java, and MySQL. My repository is divided by languages/frameworks and project files & summaries can be found within each section. 
 
-Below is an overview of my projects using different languages and frameworks.
+Below is an overview of my projects organized by different languages and frameworks.
 
 ## JavaScript, CSS, React Native, Google Firebase
 Here you can find the collaborative [ACM Project](https://github.com/acm-projects/Shop-and-Share) where I worked with a team of 5 students. I worked as a Full-Stack Developer but my main accomplishments lie in the backend development I did for our shopping list app. 
